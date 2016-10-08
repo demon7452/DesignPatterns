@@ -11,5 +11,4 @@ public class TestStrategyPattern {
         mallarDuck.setFlyInterface(new FlyNoWay());
         mallarDuck.performFly();
     }
-
 }
