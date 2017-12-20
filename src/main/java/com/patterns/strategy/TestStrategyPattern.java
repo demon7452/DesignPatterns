@@ -1,4 +1,8 @@
-package com.patterns01.strategy;
+package com.patterns.strategy;
+
+import com.patterns.strategy.impl.FlyNoWay;
+import com.patterns.strategy.impl.FlyWithWings;
+import com.patterns.strategy.impl.QuackMute;
 
 public class TestStrategyPattern {
 

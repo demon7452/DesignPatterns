@@ -1,4 +1,6 @@
-package com.patterns01.strategy;
+package com.patterns.strategy.impl;
+
+import com.patterns.strategy.api.QuackInterface;
 
 public class QuackLoud implements QuackInterface {
 

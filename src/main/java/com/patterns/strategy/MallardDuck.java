@@ -1,4 +1,7 @@
-package com.patterns01.strategy;
+package com.patterns.strategy;
+
+import com.patterns.strategy.api.FlyInterface;
+import com.patterns.strategy.api.QuackInterface;
 
 public class MallardDuck extends Duck {
     /**
@@ -8,7 +11,7 @@ public class MallardDuck extends Duck {
      * @param fly
      * @param quack
      */
-    public MallardDuck(FlyInterface fly,QuackInterface quack){
+    public MallardDuck(FlyInterface fly, QuackInterface quack){
         super(fly,quack);
     }
     

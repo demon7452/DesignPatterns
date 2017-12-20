@@ -9,4 +9,4 @@
  * Copyright (c) 2016, WKZF All Rights Reserved.
 */
 
-package com.patterns01.strategy;
+package com.patterns.strategy;

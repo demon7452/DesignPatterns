@@ -1,4 +1,8 @@
-package com.patterns01.strategy;
+package com.patterns.strategy;
+
+import com.patterns.strategy.api.FlyInterface;
+import com.patterns.strategy.api.QuackInterface;
+
 /**
  * 
  * Function: supper class duck

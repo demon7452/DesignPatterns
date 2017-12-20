@@ -1,4 +1,4 @@
-package com.patterns01.strategy;
+package com.patterns.strategy.api;
 
 public interface FlyInterface {
     public void fly();
